@@ -1,6 +1,5 @@
 # Anar Nyambayar
-I'm a student at Duke Kunshan University, in the undergraduate class 2027. 
-
+Duke Kunshan University Undergraduate Student, Class of 2027.
 
 Here are the languages I'm familiar with:
 - Java
