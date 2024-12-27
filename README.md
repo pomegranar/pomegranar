@@ -10,6 +10,6 @@ Here are the languages I'm familiar with:
 - C++ (Arduino)
 - HTML
 - CSS
-- JavaScript (barely)
+- JavaScript
 - GDScript
 - Bash
